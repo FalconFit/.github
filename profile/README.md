@@ -15,7 +15,7 @@
 
 ## 🔮 **EXPLORA EL FUTURO DEL FITNESS**
 
-Documentación completa y una visión expandida en [**FalconFit**](https://spot-blender-599.notion.site/1c609765661b80619380fa9e0614eeb1?v=1c609765661b809b8b02000c2068e9c4)
+Documentación completa y una visión expandida en [**FalconFit**](https://spot-blender-599.notion.site/FalconFit-Anteproyecto-1c709765661b80608fd1ce0dc778cafa)
 
 ---
 
