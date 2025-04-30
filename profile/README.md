@@ -42,7 +42,7 @@ Documentación completa y una visión expandida en [**FalconFit**](https://spot-
 
 ## 🎬 **VIDEO EXPLICATIVO**
 Puedes ver una demostración de las características desarrolladas hasta la fecha en el siguiente enlace:
-[**Ver vídeo explicativo (5 min)**](https://youtu.be/ejemplo-video-explicativo)
+[**Ver vídeo explicativo (5 min)**](https://vimeo.com/1080380028/7464844450?share=copy)
 
 ---
 
