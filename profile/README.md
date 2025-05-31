@@ -38,6 +38,8 @@ Documentación completa y una visión expandida en [**FalconFit**](https://spot-
   * Rediseño de la interfaz de usuario
   * Implementación de temas claro/oscuro
 
+### 🖌️​ **DESARROLLO INTERFACES**
+* Balsamiq: [Aquí](https://balsamiq.cloud/snk8fg2/pc4umak)
 ---
 
 ## 🎬 **VIDEO EXPLICATIVO**
