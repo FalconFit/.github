@@ -39,7 +39,8 @@ Documentación completa y una visión expandida en [**FalconFit**](https://spot-
   * Implementación de temas claro/oscuro
 
 ### 🖌️​ **DESARROLLO INTERFACES**
-* Balsamiq: [Aquí](https://balsamiq.cloud/snk8fg2/pc4umak)
+* Balsamiq: [Diseño completo](https://balsamiq.cloud/snk8fg2/pc4umak)
+* Figma: [En desarrollo](https://balsamiq.cloud/snk8fg2/pc4umak)
 ---
 
 ## 🎬 **VIDEO EXPLICATIVO**
