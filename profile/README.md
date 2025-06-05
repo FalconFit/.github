@@ -40,8 +40,8 @@ Documentación completa y una visión expandida en [**FalconFit**](https://spot-
 
 ### 🖌️​ **DESARROLLO INTERFACES**
 * Balsamiq: [Diseño completo](https://balsamiq.cloud/snk8fg2/pc4umak)
-* Figma: [Android Disponible](https://www.figma.com/proto/jeiDzvB3joKAijR7Z2zsdl/FalconFit?node-id=2-1131&t=HGypfu2Gn2TYBmtZ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A1131) //
-         [Angular En desarrollo](https://www.figma.com/design/jeiDzvB3joKAijR7Z2zsdl/FalconFit?node-id=23-5186&t=EbaDqhcBuplTDkhU-1)
+* Figma: Completados diseños [Android](https://www.figma.com/design/jeiDzvB3joKAijR7Z2zsdl/FalconFit?node-id=0-1&t=vNwrTXm0sRhH0E0s-1) y
+         [Angular](https://www.figma.com/design/jeiDzvB3joKAijR7Z2zsdl/FalconFit?node-id=23-5186&t=EbaDqhcBuplTDkhU-1)
 ---
 
 ## 🎬 **VIDEO EXPLICATIVO**
