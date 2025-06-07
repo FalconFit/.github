@@ -42,6 +42,7 @@ Documentación completa y una visión expandida en [**FalconFit**](https://spot-
 * Balsamiq: [Diseño completo](https://balsamiq.cloud/snk8fg2/pc4umak)
 * Figma: Completados diseños [Android](https://www.figma.com/design/jeiDzvB3joKAijR7Z2zsdl/FalconFit?node-id=0-1&t=vNwrTXm0sRhH0E0s-1) y
          [Angular](https://www.figma.com/design/jeiDzvB3joKAijR7Z2zsdl/FalconFit?node-id=23-5186&t=EbaDqhcBuplTDkhU-1)
+* Documentación: [Android]() // [Angular](https://github.com/miguelfalcon04/FalconFitAdmin/releases/tag/docs-v1.0.0)
 ---
 
 ## 🎬 **VIDEO EXPLICATIVO**
