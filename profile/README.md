@@ -43,6 +43,7 @@ Documentación completa y una visión expandida en [**FalconFit**](https://spot-
 * Figma: Completados diseños [Android](https://www.figma.com/design/jeiDzvB3joKAijR7Z2zsdl/FalconFit?node-id=0-1&t=vNwrTXm0sRhH0E0s-1) //
          [Angular](https://www.figma.com/design/jeiDzvB3joKAijR7Z2zsdl/FalconFit?node-id=23-5186&t=EbaDqhcBuplTDkhU-1)
 * Documentación: [Android](https://github.com/miguelfalcon04/FalconFitUser/releases/tag/Dokka_Documentation) // [Angular](https://github.com/miguelfalcon04/FalconFitAdmin/releases/tag/docs-v1.0.0)
+* PowerBy: [Aquí](https://github.com/FalconFit/.github/releases/tag/PowerBy)
 ---
 
 ## 🎬 **VIDEO EXPLICATIVO**
