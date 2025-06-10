@@ -34,7 +34,8 @@ Documentación completa y una visión expandida en [**FalconFit**](https://spot-
 * ✅ Directiva para mostrar/ocultar elementos según rol de usuario
 * ✅ Implementación de Tailwind
 * ✅ Descargar Csv con la información de Firebase
-Instalar APK: [ApkAngular](https://github.com/miguelfalcon04/FalconFitAdmin/releases/tag/ApkAngular)
+* Instalar APK: [ApkAngular](https://github.com/miguelfalcon04/FalconFitAdmin/releases/tag/ApkAngular)
+* Enlace a Netlify: [Netlify](https://falconfit.netlify.app/home) 
 
 ### 📱 **AVANCES ANDROID [Repositorio](https://github.com/miguelfalcon04/FalconFitUser.git)**
 * ✅ Migración completa a Base de datos Firebase
@@ -45,7 +46,7 @@ Instalar APK: [ApkAngular](https://github.com/miguelfalcon04/FalconFitAdmin/rele
 * ✅ Implementación de temas claro/oscuro
 * ✅ Página de usuario añadida
 * ✅ SnackBar y Material Alert Dialogs añadidos
-Instalar APK: [ApkAndroid](https://github.com/miguelfalcon04/FalconFitUser/releases/tag/ApkAndroid)
+* Instalar APK: [ApkAndroid](https://github.com/miguelfalcon04/FalconFitUser/releases/tag/ApkAndroid)
 
 ### 🖌️​ **DESARROLLO INTERFACES**
 * Balsamiq: [Diseño completo](https://balsamiq.cloud/snk8fg2/pc4umak)
