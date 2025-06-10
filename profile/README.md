@@ -27,7 +27,7 @@ Documentación completa y una visión expandida en [**FalconFit**](https://spot-
 
 ## 📝 **HISTÓRICO DE CAMBIOS**
 
-### 🔄 **AVANCES ANGULAR**
+### 🔄 **AVANCES ANGULAR [Repositorio](https://github.com/miguelfalcon04/FalconFitAdmin.git)**
 * ✅ Sistema de roles de usuario completamente implementado
 * ✅ Página de gestión de usuarios funcional
 * ✅ Lector y generador de códigos QR integrado
@@ -36,7 +36,7 @@ Documentación completa y una visión expandida en [**FalconFit**](https://spot-
 * ✅ Descargar Csv con la información de Firebase
 Instalar APK: [ApkAngular](https://github.com/miguelfalcon04/FalconFitAdmin/releases/tag/ApkAngular)
 
-### 📱 **AVANCES ANDROID**
+### 📱 **AVANCES ANDROID [Repositorio](https://github.com/miguelfalcon04/FalconFitUser.git)**
 * ✅ Migración completa a Base de datos Firebase
 * ✅ AutoLogin
 * ✅ Operaciones CRUD implementadas (crear, leer, actualizar, eliminar)
