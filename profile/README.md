@@ -13,30 +13,39 @@
 
 ---
 
+## 🎬 **VIDEO TFC EXPOSICIÓN**
+Encuentra el video de apoyo para la presentación:
+[**Aquí (5 min)**](https://www.youtube.com/watch?v=Hg06Exp9-sc&ab_channel=FalconMiguel)
+
+---
+
 ## 🔮 **EXPLORA EL FUTURO DEL FITNESS**
 
 Documentación completa y una visión expandida en [**FalconFit**](https://spot-blender-599.notion.site/FalconFit-Anteproyecto-1c709765661b80608fd1ce0dc778cafa)
 
 ---
 
-## 📝 **HISTÓRICO DE CAMBIOS (Checkpoint 30 de Abril)**
+## 📝 **HISTÓRICO DE CAMBIOS**
 
 ### 🔄 **AVANCES ANGULAR**
 * ✅ Sistema de roles de usuario completamente implementado
 * ✅ Página de gestión de usuarios funcional
 * ✅ Lector y generador de códigos QR integrado
 * ✅ Directiva para mostrar/ocultar elementos según rol de usuario
-* 🔜 **Próximamente:** Implementación de Tailwind y personalización de máquinas
+* ✅ Implementación de Tailwind
+* ✅ Descargar Csv con la información de Firebase
+Instalar APK: [ApkAngular](https://github.com/miguelfalcon04/FalconFitAdmin/releases/tag/ApkAngular)
 
 ### 📱 **AVANCES ANDROID**
 * ✅ Migración completa a Base de datos Firebase
+* ✅ AutoLogin
 * ✅ Operaciones CRUD implementadas (crear, leer, actualizar, eliminar)
 * ✅ Sistema de subida de imágenes a Firebase
-* 🔜 **Próximamente:** 
-  * Lector de códigos QR con **ZXING**
-  * Personalización de máquinas
-  * Rediseño de la interfaz de usuario
-  * Implementación de temas claro/oscuro
+* ✅ Lector de códigos QR con **ZXING**
+* ✅ Implementación de temas claro/oscuro
+* ✅ Página de usuario añadida
+* ✅ SnackBar y Material Alert Dialogs añadidos
+Instalar APK: [ApkAndroid](https://github.com/miguelfalcon04/FalconFitUser/releases/tag/ApkAndroid)
 
 ### 🖌️​ **DESARROLLO INTERFACES**
 * Balsamiq: [Diseño completo](https://balsamiq.cloud/snk8fg2/pc4umak)
@@ -49,7 +58,7 @@ Documentación completa y una visión expandida en [**FalconFit**](https://spot-
 * Ruta para descargar todo: [Aquí](https://github.com/FalconFit/.github/releases/tag/PandasPython)
 ---
 
-## 🎬 **VIDEO EXPLICATIVO**
+## 🎬 **VIDEO CHECKPOINT 30 ABRIL**
 Puedes ver una demostración de las características desarrolladas hasta la fecha en el siguiente enlace:
 [**Ver vídeo explicativo (5 min)**](https://vimeo.com/1080380028/7464844450?share=copy)
 
