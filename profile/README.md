@@ -13,7 +13,7 @@
 
 ---
 
-## 🎬 **VIDEO TFC EXPOSICIÓN**
+## 🎬 **VIDEO TFC PRESENTACIÓN Y EXPOSICIÓN**
 Encuentra el video de apoyo para la presentación:
 [**Aquí (5 min)**](https://www.youtube.com/watch?v=Hg06Exp9-sc&ab_channel=FalconMiguel)
 
